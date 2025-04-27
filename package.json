@@ -18,8 +18,15 @@
     "@angular/platform-browser": "^16.2.0",
     "@angular/platform-browser-dynamic": "^16.2.0",
     "@angular/router": "^16.2.0",
+    "@pqina/angular-pintura": "^9.0.3",
+    "@pqina/filepond-plugin-image-editor": "^9.2.1",
+    "@pqina/pintura": "^8.92.12",
+    "filepond": "^4.32.7",
+    "filepond-plugin-file-poster": "^2.5.2",
+    "ngx-filepond": "^7.0.3",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
+    "webm-duration-fix": "^1.0.4",
     "zone.js": "~0.13.0"
   },
   "devDependencies": {
